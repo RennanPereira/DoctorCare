@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RennanPereira">
-    <img alt="Made by Victor Borsatto" src="https://img.shields.io/badge/Made%20by-Rennan%20Pereira-2ecc71">
+    <img alt="Made by Rennan Pereira" src="https://img.shields.io/badge/Made%20by-Rennan%20Pereira-2ecc71">
   </a>
 
   <a href="https://www.linkedin.com/in/rennan-santos-pereira/" target="_blank">
