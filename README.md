@@ -28,5 +28,8 @@ DoctorCare é uma homepage para agendamento de consulta médica 100% responsivo
 
 ---
 ## 💜 Contato
-Email: rennanpereira.contato@gmail.com
-Linkedin: https://www.linkedin.com/in/rennan-santos-pereira/
+Email:
+rennanpereira.contato@gmail.com
+
+Linkedin:
+https://www.linkedin.com/in/rennan-santos-pereira/
